@@ -1,0 +1,15 @@
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.pdb
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.SuggestedBindingRedirects.cache
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Properties.Resources.resources
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.GenerateResource.cache
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Form1.resources
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\AForge.dll
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\AForge.Video.dll
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\frede\RiderProjects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.CopyComplete
